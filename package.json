@@ -1,0 +1,17 @@
+{
+    "name": "weather_node",
+    "version": "1.0.0",
+    "description": "weatherapp running on DO server",
+    "main": "index.js",
+    "keywords": [
+        "dark sky",
+        "node",
+        "npm",
+        "digital ocean"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies ": {
+        "express": "^4.16.3"
+    }
+}
