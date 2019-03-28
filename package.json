@@ -1,17 +1,31 @@
 {
-    "name": "weather_node",
-    "version": "1.0.0",
-    "description": "weatherapp running on DO server",
-    "main": "index.js",
-    "keywords": [
-        "dark sky",
-        "node",
-        "npm",
-        "digital ocean"
-    ],
-    "author": "",
-    "license": "ISC",
-    "dependencies ": {
-        "express": "^4.16.3"
-    }
+  "name": "weather_node",
+  "version": "1.0.0",
+  "description": "weatherapp running on DO server",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salvatorelombardo/weather_node.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "dark sky",
+    "node",
+    "npm",
+    "digital ocean"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies ": {
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/salvatorelombardo/weather_node/issues"
+  },
+  "homepage": "https://github.com/salvatorelombardo/weather_node#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
